@@ -1,2 +1,2 @@
 # sunstealer.azure.functions
-Sandpit
+Sandpit sunstealer.azure.functions
